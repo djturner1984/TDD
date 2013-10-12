@@ -1,0 +1,13 @@
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\TDD.Business.Tests.dll
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\TDD.Business.Tests.pdb
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business.Tests\obj\Debug\TDD.Business.Tests.csprojResolveAssemblyReference.cache
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business.Tests\obj\Debug\TDD.Business.Tests.dll
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business.Tests\obj\Debug\TDD.Business.Tests.pdb
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\NSubstitute.dll
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\TDD.Business.dll
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\TDD.Data.dll
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\xunit.dll
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\TDD.Business.pdb
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\TDD.Data.pdb
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\NSubstitute.xml
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business.Tests\bin\Debug\xunit.xml

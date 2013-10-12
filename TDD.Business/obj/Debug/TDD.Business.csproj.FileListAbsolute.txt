@@ -1,0 +1,7 @@
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business\obj\Debug\TDD.Business.csprojResolveAssemblyReference.cache
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business\bin\Debug\TDD.Business.dll
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business\bin\Debug\TDD.Business.pdb
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business\obj\Debug\TDD.Business.dll
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Business\obj\Debug\TDD.Business.pdb
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business\bin\Debug\TDD.Data.dll
+C:\Users\david.turner\Documents\Visual Studio 2012\Projects\TDD\TDD.Business\bin\Debug\TDD.Data.pdb

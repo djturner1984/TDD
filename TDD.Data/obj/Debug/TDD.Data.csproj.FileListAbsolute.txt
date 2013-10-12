@@ -1,0 +1,5 @@
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Data\bin\Debug\TDD.Data.dll
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Data\bin\Debug\TDD.Data.pdb
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Data\obj\Debug\TDD.Data.csprojResolveAssemblyReference.cache
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Data\obj\Debug\TDD.Data.dll
+c:\Users\david.turner\documents\visual studio 2012\Projects\TDD\TDD.Data\obj\Debug\TDD.Data.pdb
